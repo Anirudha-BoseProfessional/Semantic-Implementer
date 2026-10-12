@@ -1,0 +1,11 @@
+name: semantic_implementer
+description: Adds semantic test identifiers to Flutter widget trees.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  analyzer: ^8.0.0
+  path: ^1.9.0

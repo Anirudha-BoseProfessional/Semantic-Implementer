@@ -1,0 +1,18 @@
+{
+  "complex_screen.dart|84|Checkbox": "name",
+  "complex_screen.dart|87|Switch": "switch",
+  "complex_screen.dart|90|Radio": "role_cases",
+  "complex_screen.dart|93|Slider": "role_cases",
+  "complex_screen.dart|96|RangeSlider": "role_cases",
+  "complex_screen.dart|99|TextField": "role_cases",
+  "complex_screen.dart|102|DropdownButton": "role_cases",
+  "complex_screen.dart|105|PopupMenuButton": "role_cases",
+  "complex_screen.dart|108|Image": "role_cases",
+  "complex_screen.dart|111|Table": "role_cases",
+  "complex_screen.dart|120|IconButton": "role_cases",
+  "complex_screen.dart|144|Container": "section_root_cases",
+  "complex_screen.dart|167|Container": "header",
+  "complex_screen.dart|203|Container": "early_return_cases",
+  "complex_screen.dart|207|Container": "early_return_cases",
+  "complex_screen.dart|270|Container": "parser_torture_cases"
+}
